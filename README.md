@@ -6,5 +6,7 @@ The Martini 3-exc force field file, the .itp topology files of the excipients, a
 
 # Reference
 Please cite the original publication:
+
 T. M. Prass, K. Lindorff-Larsen, P. Garidel, M.Blech, L. V. Schäfer. Optimized Protein-Excipient Interactions in the Martini 3 Force Field. J. Chem. Inf. Model. 2025, asap. https://doi.org/10.1021/acs.jcim.4c02338
+
 A version of the manuscript can also be found on the bioRxiv: https://doi.org/10.1101/2024.11.29.626008
